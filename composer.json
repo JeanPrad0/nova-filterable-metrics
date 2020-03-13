@@ -1,5 +1,5 @@
 {
-    "name": "nemrutco/nova-filterable-metrics",
+    "name": "JeanPrad0/nova-filterable-metrics-card",
     "description": "Filterable Laravel Nova Metrics.",
     "keywords": [
         "laravel",
@@ -15,13 +15,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Nemrutco\\Filterable\\": "src/"
+            "JeanPrad0\\Filterable\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Nemrutco\\Filterable\\CardServiceProvider"
+                "JeanPrad0\\Filterable\\CardServiceProvider"
             ]
         }
     },
