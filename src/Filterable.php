@@ -1,6 +1,6 @@
 <?php
 
-namespace Nemrutco\Filterable;
+namespace JeanPrad0\Filterable;
 
 use Illuminate\Database\Eloquent\Builder;
 
