@@ -1,6 +1,6 @@
 <?php
 
-namespace Nemrutco\Filterable;
+namespace JeanPrad0\Filterable;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
